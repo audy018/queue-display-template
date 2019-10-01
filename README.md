@@ -11,7 +11,7 @@ Change configuration in `config.js`
 
 ```
 const TOKEN = `xxx`;
-const API_URL = 'http://localhost:3002/v1';
+const API_URL = 'http://localhost:81/api/v1/';
 ```
 
 `TOKEN` Generate from Q4U web management.
